@@ -15,5 +15,3 @@
     }
   }
 }
-
-curl https://git.io/ -i -F "url=https://raw.githubusercontent.com/Shota5749/other-scans-series/main/The%20God%20Who%20Can't%20Clean%20U" -F "code=KamiUp"
